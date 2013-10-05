@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		24BCA6A417FF7CE7008D5C19 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24BCA6A317FF7CE7008D5C19 /* CoreLocation.framework */; };
+		24BCA6A717FF7DAE008D5C19 /* ESLocationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24BCA6A617FF7DAE008D5C19 /* ESLocationController.m */; };
 		4A0C71D017FF6CE0000C3315 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A0C71CF17FF6CE0000C3315 /* Foundation.framework */; };
 		4A0C71D217FF6CE0000C3315 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A0C71D117FF6CE0000C3315 /* CoreGraphics.framework */; };
 		4A0C71D417FF6CE0000C3315 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A0C71D317FF6CE0000C3315 /* UIKit.framework */; };
@@ -34,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		24BCA6A317FF7CE7008D5C19 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		24BCA6A517FF7DAE008D5C19 /* ESLocationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESLocationController.h; sourceTree = "<group>"; };
+		24BCA6A617FF7DAE008D5C19 /* ESLocationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESLocationController.m; sourceTree = "<group>"; };
 		4A0C71CC17FF6CE0000C3315 /* EngSocP5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EngSocP5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A0C71CF17FF6CE0000C3315 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4A0C71D117FF6CE0000C3315 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -60,6 +65,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24BCA6A417FF7CE7008D5C19 /* CoreLocation.framework in Frameworks */,
 				4A0C71D217FF6CE0000C3315 /* CoreGraphics.framework in Frameworks */,
 				4A0C71D417FF6CE0000C3315 /* UIKit.framework in Frameworks */,
 				4A0C71D017FF6CE0000C3315 /* Foundation.framework in Frameworks */,
@@ -101,6 +107,7 @@
 		4A0C71CE17FF6CE0000C3315 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				24BCA6A317FF7CE7008D5C19 /* CoreLocation.framework */,
 				4A0C71CF17FF6CE0000C3315 /* Foundation.framework */,
 				4A0C71D117FF6CE0000C3315 /* CoreGraphics.framework */,
 				4A0C71D317FF6CE0000C3315 /* UIKit.framework */,
@@ -119,6 +126,8 @@
 				4A0C71E517FF6CE0000C3315 /* ESViewController.m */,
 				4A0C71E717FF6CE0000C3315 /* Images.xcassets */,
 				4A0C71D617FF6CE0000C3315 /* Supporting Files */,
+				24BCA6A517FF7DAE008D5C19 /* ESLocationController.h */,
+				24BCA6A617FF7DAE008D5C19 /* ESLocationController.m */,
 			);
 			path = EngSocP5;
 			sourceTree = "<group>";
@@ -200,6 +209,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Farwa Naqi";
 				TargetAttributes = {
+					4A0C71CB17FF6CDF000C3315 = {
+						DevelopmentTeam = 4F4JL774TN;
+					};
 					4A0C71EC17FF6CE0000C3315 = {
 						TestTargetID = 4A0C71CB17FF6CDF000C3315;
 					};
@@ -252,6 +264,7 @@
 			files = (
 				4A0C71E617FF6CE0000C3315 /* ESViewController.m in Sources */,
 				4A0C71E017FF6CE0000C3315 /* ESAppDelegate.m in Sources */,
+				24BCA6A717FF7DAE008D5C19 /* ESLocationController.m in Sources */,
 				4A0C71DC17FF6CE0000C3315 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -379,10 +392,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "EngSocP5/EngSocP5-Prefix.pch";
 				INFOPLIST_FILE = "EngSocP5/EngSocP5-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,10 +408,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "EngSocP5/EngSocP5-Prefix.pch";
 				INFOPLIST_FILE = "EngSocP5/EngSocP5-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -461,6 +480,7 @@
 				4A0C720017FF6CE0000C3315 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A0C720117FF6CE0000C3315 /* Build configuration list for PBXNativeTarget "EngSocP5Tests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +489,7 @@
 				4A0C720317FF6CE0000C3315 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

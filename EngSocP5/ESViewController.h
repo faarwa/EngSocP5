@@ -7,7 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ESLocationController.h"
 
-@interface ESViewController : UIViewController
+@interface ESViewController : UIViewController <ESLocationControllerDelegate, UITextFieldDelegate> {
+    ESLocationController *m_locationController;
+    UILabel *m_locationLabel;
+}
+
+@property (nonatomic) IBOutlet UILabel *locationLabel;
+@property (nonatomic) IBOutlet UITextField *questIdField, *eventKeyField;
+
+- (void) locationUpdate:(CLLocation *)location;
+- (void) locationError:(NSError *)error;
 
 @end

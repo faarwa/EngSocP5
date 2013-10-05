@@ -1,0 +1,246 @@
+TEngSocP5Tests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist
+cProcessPCH /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests normal i386
+cGenerateDSYMFile /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests
+cCopyStringsFile /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj/InfoPlist.strings EngSocP5Tests/en.lproj/InfoPlist.strings
+cTouch /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/XCTest.framework/XCTest
+c00000000524ED3C600000000000256F0
+t1380897734
+s153328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000524ED3E000000000000003B5
+t1380897760
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000524ED3E9000000000000019E
+t1380897769
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000524ED3ED000000000088B570
+t1380897773
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000524ED3F20000000001DB1C90
+t1380897778
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000524ED42F0000000000000AC9
+t1380897839
+s2761
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.LinkFileList
+c00000000524F571500000000000000B2
+t1380931349
+s178
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o
+t1380931350
+s8116
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch
+t1380931350
+s109480
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest
+t1380931350
+s170
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM
+t2
+s0
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests
+t1380931350
+s10532
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist
+t1380931349
+s505
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj/InfoPlist.strings
+t1380931350
+s42
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/EngSocP5-Prefix.pch
+c00000000524F45AB0000000000000181
+t1380926891
+s385
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist
+c00000000524F3EEF00000000000002B1
+t1380925167
+s689
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m
+c00000000524F3EEF0000000000000281
+t1380925167
+s641
+
+N/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/en.lproj/InfoPlist.strings
+c00000000524F3EEF000000000000002D
+t1380925167
+s45
+
+CBuild AST from /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1de558958effb741^e96059958effb741^---0#1#1#--18"Check dependencies36"BFECAB42-BFA2-41A5-926A-63F106D2FCCD-
+
+CCompileC DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402624150.548422
+e402624150.636691
+r1
+xCompileC
+xDerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o
+x/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m240"CompileC DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o EngSocP5Tests/EngSocP5Tests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler33878c968effb741^3ffea2968effb741^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m0000000000000000^4394"CompileC DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o EngSocP5Tests/EngSocP5Tests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Nik/Programming/Objective-C/EngSocP5    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-generated-files.hmap -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-own-target-headers.hmap -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-all-target-headers.hmap -iquote /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-project-headers.hmap -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/DerivedSources/i386 -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/DerivedSources -F/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch -MMD -MT dependencies -MF /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.d --serialize-diagnostics /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.dia -c /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests.m -o /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o36"3B18D460-CE08-4CE2-A9E5-2A8BE1B8D31C-
+bCE85A4A8-204B-49EE-8AE4-923253355D57
+
+CCopyStringsFile /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj/InfoPlist.strings EngSocP5Tests/en.lproj/InfoPlist.strings
+s402624150.759779
+e402624150.762048
+r1
+xCopyStringsFile
+x/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj/InfoPlist.strings
+xEngSocP5Tests/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy EngSocP5Tests/en.lproj/InfoPlist.strings162"CopyStringsFile DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj/InfoPlist.strings EngSocP5Tests/en.lproj/InfoPlist.strings8e8fc2968effb741^2b16c3968effb741^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/en.lproj/InfoPlist.strings0000000000000000^675"CopyStringsFile DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj/InfoPlist.strings EngSocP5Tests/en.lproj/InfoPlist.strings    cd /Users/Nik/Programming/Objective-C/EngSocP5    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/en.lproj -- EngSocP5Tests/en.lproj/InfoPlist.strings36"4F76E7C9-9176-4F9F-BBC6-40793F5CC0DC-
+bCE85A4A8-204B-49EE-8AE4-923253355D57
+
+CGenerateDSYMFile /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests
+s402624150.739150
+e402624150.751502
+r1
+xGenerateDSYMFile
+x/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM
+x/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generate /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM193"GenerateDSYMFile DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests984cbd968effb741^e562c0968effb741^---0#0#1#-19%DVTDocumentLocation2@143"file://localhost/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM00389c2eddffdf42^808"GenerateDSYMFile DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests    cd /Users/Nik/Programming/Objective-C/EngSocP5    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests -o /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest.dSYM36"FA9171B6-F8BD-4039-9271-B326E8A51739-
+bCE85A4A8-204B-49EE-8AE4-923253355D57
+
+CLd /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests normal i386
+s402624150.684848
+e402624150.730357
+r1
+xLd
+x/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests
+xnormal
+xi386
+d/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.LinkFileList
+d/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5.app/EngSocP5
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/bundle1.o
+d/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests107"Ld DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests normal i386db69af968effb741^b5faba968effb741^---0#0#1#--2035"Ld DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests normal i386    cd /Users/Nik/Programming/Objective-C/EngSocP5    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator -F/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests.LinkFileList -bundle_loader /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5.app/EngSocP5 -Xlinker -objc_abi_version -Xlinker 2 -framework XCTest -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework XCTest -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/Objects-normal/i386/EngSocP5Tests_dependency_info.dat -o /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/EngSocP5Tests36"5CBC42CC-7E2C-4F49-A1AB-56B1083CB457-
+bCE85A4A8-204B-49EE-8AE4-923253355D57
+
+CProcessInfoPlistFile /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist
+s402624149.350890
+e402624149.353530
+r1
+xProcessInfoPlistFile
+x/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist
+x/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist149"ProcessInfoPlistFile DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist EngSocP5Tests/EngSocP5Tests-Info.plist43e359958effb741^24815a958effb741^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist0000000000000000^707"ProcessInfoPlistFile DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist EngSocP5Tests/EngSocP5Tests-Info.plist    cd /Users/Nik/Programming/Objective-C/EngSocP5    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5Tests/EngSocP5Tests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest/Info.plist36"06E7C0FC-5A14-4E2B-B3E8-08DC77ECF00E-
+bCE85A4A8-204B-49EE-8AE4-923253355D57
+
+CProcessPCH /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402624149.363398
+e402624150.540119
+r1
+xProcessPCH
+x/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch
+xEngSocP5/EngSocP5-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/EngSocP5-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile EngSocP5/EngSocP5-Prefix.pch236"ProcessPCH DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc32b5d958effb741^6f458a968effb741^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/EngSocP5-Prefix.pch0000000000000000^4199"ProcessPCH DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Nik/Programming/Objective-C/EngSocP5    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-generated-files.hmap -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-own-target-headers.hmap -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-all-target-headers.hmap -iquote /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/EngSocP5Tests-project-headers.hmap -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/DerivedSources/i386 -I/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/EngSocP5.build/Debug-iphonesimulator/EngSocP5Tests.build/DerivedSources -F/Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.d -c /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/EngSocP5-Prefix.pch -o /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-bdajnssvgyclclfybqledmczihgp/EngSocP5-Prefix.pch.pch36"2578FA22-89AA-4404-BF1F-250812684BE3-
+bCE85A4A8-204B-49EE-8AE4-923253355D57
+
+CProcessPCH /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Intermediates/PrecompiledHeaders/EngSocP5-Prefix-gjtudqtazgyiclgzdooawwsujvdj/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Index/PrecompiledHeaders/EngSocP5-Prefix-brqwgsguglqxlrbmzhfdhcvanifg_ast/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Index/PrecompiledHeaders/EngSocP5-Prefix-hdavrlycmczmqwcszmdoockuuvwo_ast/EngSocP5-Prefix.pch.pch EngSocP5/EngSocP5-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Nik/Programming/Objective-C/EngSocP5/DerivedData/EngSocP5/Build/Products/Debug-iphonesimulator/EngSocP5Tests.xctest
+r0
+
