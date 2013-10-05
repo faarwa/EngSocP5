@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2876/trunk/javase
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2666/trunk/javase/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2861/trunk/javase/pom.xml
+END

@@ -1,4 +1,28 @@
 dependencies: \
-  /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/ESViewController.m \
+  /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/ESViewController.mm \
+  zxing/iphone/ZXingWidget/Classes/MultiFormatReader.h \
+  zxing/iphone/ZXingWidget/Classes/FormatReader.h \
+  zxing/cpp/core/src/zxing/common/Counted.h \
+  zxing/cpp/core/src/zxing/Result.h \
+  zxing/cpp/core/src/zxing/common/Array.h \
+  zxing/cpp/core/src/zxing/common/Str.h \
+  zxing/cpp/core/src/zxing/ResultPoint.h \
+  zxing/cpp/core/src/zxing/BarcodeFormat.h \
+  zxing/cpp/core/src/zxing/BinaryBitmap.h \
+  zxing/cpp/core/src/zxing/common/BitMatrix.h \
+  zxing/cpp/core/src/zxing/common/BitArray.h \
+  zxing/cpp/core/src/zxing/ZXing.h \
+  zxing/cpp/core/src/zxing/common/IllegalArgumentException.h \
+  zxing/cpp/core/src/zxing/Exception.h \
+  zxing/cpp/core/src/zxing/Binarizer.h \
+  zxing/cpp/core/src/zxing/LuminanceSource.h \
+  zxing/cpp/core/src/zxing/Reader.h \
+  zxing/cpp/core/src/zxing/DecodeHints.h \
+  zxing/cpp/core/src/zxing/ResultPointCallback.h \
   /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/ESViewController.h \
-  /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/ESLocationController.h
+  /Users/Nik/Programming/Objective-C/EngSocP5/EngSocP5/ESLocationController.h \
+  zxing/iphone/ZXingWidget/Classes/ZXingWidgetController.h \
+  zxing/iphone/ZXingWidget/Classes/Decoder.h \
+  zxing/iphone/ZXingWidget/Classes/DecoderDelegate.h \
+  zxing/iphone/ZXingWidget/Classes/parsedResults/ParsedResult.h \
+  zxing/iphone/ZXingWidget/Classes/OverlayView.h

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/2897/trunk
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2663/trunk/NOTICE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2884/trunk/AUTHORS
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2671/trunk/.gitignore
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2791/trunk/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/455/trunk/COPYING
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2722/trunk/build.xml
+END

@@ -28,7 +28,7 @@
     
     [self.delegate locationUpdate: newLocation];
     
-    NSLog(@"Location: %@", [newLocation description]);
+//    NSLog(@"Location: %@", [newLocation description]);
 }
 
 - (void)locationManager:(CLLocationManager *)manager
