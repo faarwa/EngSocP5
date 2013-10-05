@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ESParticipationViewController : UIViewController
+@interface ESParticipationViewController : UIViewController <UITextFieldDelegate, UITableViewDelegate, UITableViewDataSource>
+
+@property (weak, nonatomic) IBOutlet UITableView *pointsTableView;
+@property (weak, nonatomic) IBOutlet UITextField *eventsKeyField;
+- (IBAction)updatePoints:(id)sender;
+
 
 @end

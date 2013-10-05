@@ -23,6 +23,7 @@
 		4A0C71F117FF6CE0000C3315 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A0C71D317FF6CE0000C3315 /* UIKit.framework */; };
 		4A0C71F917FF6CE0000C3315 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4A0C71F717FF6CE0000C3315 /* InfoPlist.strings */; };
 		4A0C71FB17FF6CE0000C3315 /* EngSocP5Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A0C71FA17FF6CE0000C3315 /* EngSocP5Tests.m */; };
+		4A8AF4A017FF9DCC00569102 /* ESParticipationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A8AF49F17FF9DCC00569102 /* ESParticipationViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,8 @@
 		4A0C71F617FF6CE0000C3315 /* EngSocP5Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EngSocP5Tests-Info.plist"; sourceTree = "<group>"; };
 		4A0C71F817FF6CE0000C3315 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4A0C71FA17FF6CE0000C3315 /* EngSocP5Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EngSocP5Tests.m; sourceTree = "<group>"; };
+		4A8AF49E17FF9DCC00569102 /* ESParticipationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESParticipationViewController.h; sourceTree = "<group>"; };
+		4A8AF49F17FF9DCC00569102 /* ESParticipationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESParticipationViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 		4A0C71D517FF6CE0000C3315 /* EngSocP5 */ = {
 			isa = PBXGroup;
 			children = (
+				4A8AF49E17FF9DCC00569102 /* ESParticipationViewController.h */,
+				4A8AF49F17FF9DCC00569102 /* ESParticipationViewController.m */,
 				4A0C71DE17FF6CE0000C3315 /* ESAppDelegate.h */,
 				4A0C71DF17FF6CE0000C3315 /* ESAppDelegate.m */,
 				4A0C71E117FF6CE0000C3315 /* Main.storyboard */,
@@ -263,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A0C71E617FF6CE0000C3315 /* ESViewController.m in Sources */,
+				4A8AF4A017FF9DCC00569102 /* ESParticipationViewController.m in Sources */,
 				4A0C71E017FF6CE0000C3315 /* ESAppDelegate.m in Sources */,
 				24BCA6A717FF7DAE008D5C19 /* ESLocationController.m in Sources */,
 				4A0C71DC17FF6CE0000C3315 /* main.m in Sources */,

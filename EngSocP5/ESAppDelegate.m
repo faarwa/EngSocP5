@@ -7,6 +7,8 @@
 //
 
 #import "ESAppDelegate.h"
+#import "ESViewController.h"
+#import "ESParticipationViewController.h"
 
 @implementation ESAppDelegate
 
